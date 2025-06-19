@@ -62,7 +62,6 @@ A modern, responsive ToDo application built with React, Vite, and Tailwind CSS. 
 - You can change the number of tasks fetched or displayed per page in `TaskManager.jsx`.
 - The theme preference is saved in localStorage and respects system settings by default.
 
-## License
-
-This project is for educational purposes.
+## Deployed Link
+https://todoapp-021.netlify.app/
 
