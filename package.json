@@ -1,0 +1,11 @@
+{
+  "name": "week-3-react-js-assignment",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd todo-app && npm run dev",
+    "build": "cd todo-app && npm run build",
+    "preview": "cd todo-app && npm run preview",
+    "install": "cd todo-app && npm install"
+  }
+} 
